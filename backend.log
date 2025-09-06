@@ -1,0 +1,5 @@
+2025-03-19 22:17:59,291 - __main__ - INFO - Scaler validation completed with training data.
+2025-03-19 22:17:59,292 - __main__ - INFO - Backend initialized successfully.
+2025-03-19 22:17:59,300 - waitress - INFO - Serving on http://0.0.0.0:5000
+2025-03-19 22:26:59,179 - __main__ - INFO - Successful prediction for CTG (Fetal Health): Suspect
+2025-03-19 22:27:46,570 - __main__ - INFO - Successful prediction for CTG (Fetal Health): Suspect
